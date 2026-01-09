@@ -1,7 +1,6 @@
 ---
 name: optimize-cicd-pipeline
 description: Analyzes CI/CD pipelines to identify common antipatterns (like slow feedback loops or sequential steps) and recommends best practice patterns (like build images, parallelization, and build-once-deploy-anywhere). Use when designing, auditing, or troubleshooting CI/CD workflows to improve speed and reliability.
-license: MIT
 ---
 
 # Optimize CI/CD Pipeline

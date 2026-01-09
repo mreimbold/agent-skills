@@ -1,11 +1,6 @@
 ---
 name: gitlab-matrix-expressions
 description: Use GitLab CI/CD Matrix Expressions to create dynamic 1:1 dependencies between parallel matrix jobs. This simplifies pipeline configuration by avoiding the manual listing of every job combination in `needs`.
-license: MIT
-compatibility: Requires GitLab 18.6 or later (Feature is in Beta).
-metadata:
-  source: "https://docs.gitlab.com/ci/yaml/matrix_expressions/"
-  focus: "GitLab CI, YAML, Parallel execution"
 ---
 
 # GitLab Matrix Expressions
